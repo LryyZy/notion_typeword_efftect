@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta property="og:title" content="打字机效果">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://lryyzy.github.io/notion_typeword_efftect/">
-    <meta property="og:description" content="文字从左到右慢慢显现的动画效果">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/37352f/ffffff?text=打字机效果">
-    
     <title>打字机动画效果</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
