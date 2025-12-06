@@ -63,7 +63,7 @@ html
 <body>
     <div class="typewriter-container">
         <div class="typewriter-text" id="text">
-            这里输入你想要显示的文字内容。这段文字会从左到右慢慢显现，就像打字机效果一样。你可以在 GitHub 上修改这段文字，或者调整动画速度。
+            歡迎，訪客01。
         </div>
     </div>
 
